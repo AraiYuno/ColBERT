@@ -5,6 +5,13 @@
 /mlruns/
 /profiler/
 /logs/
+colbert/bin*
+colbert/conda-meta*
+colbert/include*
+colbert/lib*
+colbert/man/man1*
+colbert/ssl*
+colbert/share*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
